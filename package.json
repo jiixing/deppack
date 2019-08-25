@@ -1,6 +1,6 @@
 {
   "name": "deppack",
-  "version": "0.8.0",
+  "version": "0.9.0-pre",
   "description": "Extract nodejs dependencies to browser.",
   "main": "index.js",
   "scripts": {
@@ -28,12 +28,12 @@
     "eslint": "^2.4.0"
   },
   "dependencies": {
-    "anymatch": "^2.0.0",
+    "anymatch": "^3.0.0",
     "async-each": "^1.0.0",
     "browser-resolve": "^1.11.1",
     "deep-assign": "^2.0.0",
-    "detective": "^4.3.1",
-    "glob": "^7.0.3",
+    "detective": "^4.3",
+    "glob": "^7.1.4",
     "loggy": "^1.0.3",
     "micro-promisify": "^0.1.1",
     "node-browser-modules": "^0.1.0",
