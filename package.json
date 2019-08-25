@@ -18,15 +18,12 @@
     "brunch",
     "pack"
   ],
-  "author": "Paul Miller (http://paulmillr.com)",
+  "author": "Paul Miller (https://paulmillr.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brunch/deppack/issues"
   },
   "homepage": "https://github.com/brunch/deppack#readme",
-  "devDependencies": {
-    "eslint": "^2.4.0"
-  },
   "dependencies": {
     "anymatch": "^3.0.0",
     "async-each": "^1.0.0",
