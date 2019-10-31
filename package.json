@@ -26,13 +26,12 @@
   "homepage": "https://github.com/brunch/deppack#readme",
   "dependencies": {
     "anymatch": "^3.0.0",
-    "async-each": "^1.0.0",
+    "async-each": "^1.0.3",
     "browser-resolve": "^1.11.1",
     "deep-assign": "^2.0.0",
     "detective": "^4.3",
     "glob": "^7.1.4",
     "loggy": "^1.0.3",
-    "micro-promisify": "^0.1.1",
     "node-browser-modules": "^0.1.0",
     "true-case-path": "^1.0.2"
   }
