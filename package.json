@@ -36,7 +36,7 @@
     "detective": "^5.2.0",
     "glob": "^7.1.5",
     "loggy": "^1.0.8",
-    "node-browser-modules": "^0.1.0",
+    "node-browser-modules": "^0.2.0",
     "true-case-path": "^1.0.2"
   }
 }
