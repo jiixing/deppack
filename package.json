@@ -1,6 +1,6 @@
 {
   "name": "deppack",
-  "version": "0.9.2",
+  "version": "1.0.0-pre",
   "description": "Extract nodejs dependencies to browser.",
   "main": "index.js",
   "files": [
@@ -36,7 +36,6 @@
     "detective": "^5.2.0",
     "glob": "^7.1.5",
     "loggy": "^1.0.8",
-    "node-browser-modules": "^0.2.0",
     "true-case-path": "^1.0.2"
   }
 }
